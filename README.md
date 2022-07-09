@@ -1,10 +1,5 @@
-         _    _ _______ ____  _____  ______ _____ ____  _   _ 
-    /\  | |  | |__   __/ __ \|  __ \|  ____/ ____/ __ \| \ | |
-   /  \ | |  | |  | | | |  | | |__) | |__ | |   | |  | |  \| |
-  / /\ \| |  | |  | | | |  | |  _  /|  __|| |   | |  | | . ` |
- / ____ \ |__| |  | | | |__| | | \ \| |___| |___| |__| | |\  |
-/_/    \_\____/   |_|  \____/|_|  \_\______\_____\____/|_| \_|
-                                                               
-                                                               
+![logo](https://user-images.githubusercontent.com/61228111/178097170-8c7a5646-efb9-4836-8e4a-6a5bd7c4ca74.png)
 <br>
-Made by Karan Sajeeth
+ An automation tool to perform multiple reconnaisance attacks on a domain instantly
+<br>
+ Made by Karan Sajeeth
