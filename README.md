@@ -25,12 +25,9 @@ An automation tool to perform multiple reconnaisance attacks on a domain instant
   python3 autorecon.py --full -o <export file type> <url>
 ```
     
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Demo
 
-Insert gif or link to demo
+https://drive.google.com/file/d/1iTs7MWxmzLllcm5uUfxal6SdrihOh_Hb/view?usp=sharing
 
